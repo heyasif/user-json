@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Liam",
+      "lastName": "Green",
+      "email": "liam.green@example.com",
+      "department": "Sales"
+    },
+    {
+      "id": "2",
+      "firstName": "Emma",
+      "lastName": "King",
+      "email": "emma.king@example.com",
+      "department": "IT"
+    },
+    {
+      "id": "3",
+      "firstName": "Noah",
+      "lastName": "Hall",
+      "email": "noah.hall@example.com",
+      "department": "Legal"
+    },
+    {
+      "id": "4",
+      "firstName": "Olivia",
+      "lastName": "Wright",
+      "email": "olivia.wright@example.com",
+      "department": "Customer Support"
+    },
+    {
+      "id": "5",
+      "firstName": "William",
+      "lastName": "Lopez",
+      "email": "william.lopez@example.com",
+      "department": "R&D"
+    },
+    {
+      "id": "6",
+      "firstName": "Ava",
+      "lastName": "Hill",
+      "email": "ava.hill@example.com",
+      "department": "Logistics"
+    },
+    {
+      "id": "7",
+      "firstName": "James",
+      "lastName": "Adams",
+      "email": "james.adams@example.com",
+      "department": "Administration"
+    },
+    {
+      "id": "8",
+      "firstName": "Isabella",
+      "lastName": "Baker",
+      "email": "isabella.baker@example.com",
+      "department": "Finance"
+    },
+    {
+      "id": "9",
+      "firstName": "Oliver",
+      "lastName": "Nelson",
+      "email": "oliver.nelson@example.com",
+      "department": "Marketing"
+    },
+    {
+      "id": "10",
+      "firstName": "Sophia",
+      "lastName": "Carter",
+      "email": "sophia.carter@example.com",
+      "department": "Engineering"
+    },
+    {
+      "id": "11",
+      "firstName": "Benjamin",
+      "lastName": "Mitchell",
+      "email": "benjamin.mitchell@example.com",
+      "department": "HR"
+    },
+    {
+      "id": "12",
+      "firstName": "Charlotte",
+      "lastName": "Perez",
+      "email": "charlotte.perez@example.com",
+      "department": "Production"
+    },
+    {
+      "id": "13",
+      "firstName": "Elijah",
+      "lastName": "Roberts",
+      "email": "elijah.roberts@example.com",
+      "department": "Design"
+    },
+    {
+      "id": "14",
+      "firstName": "Mia",
+      "lastName": "Turner",
+      "email": "mia.turner@example.com",
+      "department": "Quality Assurance"
+    },
+    {
+      "id": "15",
+      "firstName": "Lucas",
+      "lastName": "Phillips",
+      "email": "lucas.phillips@example.com",
+      "department": "Operations"
+    },
+    {
+      "id": "16",
+      "firstName": "Amelia",
+      "lastName": "Campbell",
+      "email": "amelia.campbell@example.com",
+      "department": "Procurement"
+    },
+    {
+      "id": "17",
+      "firstName": "Mason",
+      "lastName": "Parker",
+      "email": "mason.parker@example.com",
+      "department": "Engineering"
+    },
+    {
+      "id": "18",
+      "firstName": "Harper",
+      "lastName": "Evans",
+      "email": "harper.evans@example.com",
+      "department": "Marketing"
+    },
+    {
+      "id": "19",
+      "firstName": "Logan",
+      "lastName": "Edwards",
+      "email": "logan.edwards@example.com",
+      "department": "IT"
+    },
+    {
+      "id": "20",
+      "firstName": "Evelyn",
+      "lastName": "Collins",
+      "email": "evelyn.collins@example.com",
+      "department": "Sales"
+    }
+  ]
+}
